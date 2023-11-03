@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-02fc89ea","path":"/tags/mysql/","title":"Mysql | Tags","lang":"en-US","frontmatter":{"title":"Mysql | Tags","layout":"Tags","blog":{"type":"category","name":"Mysql","key":"tag"}},"excerpt":"","headers":[],"git":{},"filePathRelative":null}');export{t as data};
