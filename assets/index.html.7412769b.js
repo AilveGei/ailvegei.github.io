@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-d724be6e","path":"/tags/hdfs/","title":"HDFS | Tags","lang":"en-US","frontmatter":{"title":"HDFS | Tags","layout":"Tags","blog":{"type":"category","name":"HDFS","key":"tag"}},"excerpt":"","headers":[],"git":{},"filePathRelative":null}');export{e as data};
